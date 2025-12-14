@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hey, I'm Shashwat Drona
 
-<!--
-**Shashwat-Drona/Shashwat-Drona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤖 AIML Enthusiast | B.Tech CSE | IEEE Applicant
 
-Here are some ideas to get you started:
+I'm currently exploring Machine Learning, Python development, and AI fundamentals.  
+I’ve completed Andrew Ng’s ML courses and am actively building hands-on projects to strengthen my understanding.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 What I'm Learning Right Now
+- Machine Learning (Regression, Classification, Neural Networks)
+- Python (NumPy, Pandas, Matplotlib)
+- Data Structures & Algorithms
+- Git & Open-Source Contribution
+
+---
+
+## 📂 Featured Repositories
+- 🔍 **[ML-Basics](https://github.com/Shashwat-Drona/ML-Basics)** — ML practice code and models  
+- 📝 **[Andrew-Ng-Notes](https://github.com/Shashwat-Drona/Andrew-Ng-Notes)** — Notes from ML coursework  
+- 🐍 **[Python-Basics](https://github.com/Shashwat-Drona/Python-Basics)** — Foundational Python scripts  
+- 🪨 **[Mine-vs-Rock-Prediction-Model](https://github.com/Shashwat-Drona/Mine-vs-Rock-Prediction-Model)** — ML classification project
+
+---
+
+## 🧩 Projects 
+- **[OnTop](https://github.com/KISHAN1506/OnTop)** - ML based Job 
+
+---
+
+## 🎯 Goals for 2025
+- Build 3–5 solid ML projects  
+- Start contributing regularly to open-source  
+- Strengthen DSA & core development skills   
+
+---
+
+### 📫 Connect with me
+Feel free to explore my work or reach out for collaboration!
+- LinkedIn - www.linkedin.com/in/shashwat-drona
