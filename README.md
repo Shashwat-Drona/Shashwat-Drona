@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Shashwat Drona
 
-### 🤖 AIML Enthusiast | B.Tech CSE | IEEE Applicant
+### 🤖 AIML Enthusiast | B.Tech CSE 
 
 I'm currently exploring Machine Learning, Python development, and AI fundamentals.  
 I’ve completed Andrew Ng’s ML courses and am actively building hands-on projects to strengthen my understanding.
@@ -24,7 +24,7 @@ I’ve completed Andrew Ng’s ML courses and am actively building hands-on proj
 ---
 
 ## 🧩 Projects 
-- **[OnTop](https://github.com/KISHAN1506/OnTop)** - ML based Job 
+- **[OnTop](https://github.com/KISHAN1506/OnTop)** - ML based Job Finder
 
 ---
 
