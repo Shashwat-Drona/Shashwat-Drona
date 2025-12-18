@@ -23,11 +23,6 @@ I’ve completed Andrew Ng’s ML courses and am actively building hands-on proj
 
 ---
 
-## 🧩 Projects 
-- **[OnTop](https://github.com/KISHAN1506/OnTop)** - ML based Job Finder
-
----
-
 ## 🎯 Goals for 2025
 - Build 3–5 solid ML projects  
 - Start contributing regularly to open-source  
