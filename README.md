@@ -23,7 +23,7 @@ I’ve completed Andrew Ng’s ML courses and am actively building hands-on proj
 
 ---
 
-##  Goals for 2025
+##  Goals for 2026
 - Build 3–5 solid ML projects  
 - Start contributing regularly to open-source  
 - Strengthen DSA & core development skills   
